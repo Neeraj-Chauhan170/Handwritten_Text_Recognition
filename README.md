@@ -17,3 +17,4 @@ Probability: 0.96625507
 Recognized: "MR."
 Probability: 0.57650965
 # decentralized-app
+# handwritten_text
