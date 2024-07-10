@@ -49,5 +49,3 @@ Probability: 0.96625507
 
 Recognized: "MR."
 Probability: 0.57650965
-Probability: 0.57650965
-# handwritten_text
